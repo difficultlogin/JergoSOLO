@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 
 import re
 
@@ -12,5 +12,5 @@ def validate_login(login):
     return False
 
 if __name__ == '__main__':
-    login = 'test-lo.gin2'
+    login = 'test-l12_3o.gin2'
     print(validate_login(login))
